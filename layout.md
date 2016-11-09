@@ -1,1 +1,16 @@
-untitled.md
+abstract.md
+01_introduction/introduction.md
+01_introduction/fundamental_research.md
+01_introduction/particle_physics.md
+01_introduction/outreach.md
+02_methods_data/methods_data.md
+02_methods_data/methods.md
+02_methods_data/data.md
+03_results/results.md
+03_results/funding.md
+figures/figure_01/figure_01.png
+03_results/benefits.md
+figures/figure_02/figure_02.png
+figures/figure_03/figure_03.png
+04_conclusions/conclusions.md
+05_acknowledgements/acknowledgements.md

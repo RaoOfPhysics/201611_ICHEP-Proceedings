@@ -1,1 +1,1 @@
-201611_ICHEP-Proceedings
+Support for participating in outreach and the benefits of doing so
