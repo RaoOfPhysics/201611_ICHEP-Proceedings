@@ -14,6 +14,6 @@ Specifically, and again on a scale of 1 (“Strongly Disagree”) to 5 (“Stron
 There was outright agreement with the idea that participating in outreach made one a better scientist, and also gave one enjoyment and job satisfaction (as shown in Figure \ref{fig:fig2}).
 However, there was less agreement with the remaining statements (Figure \ref{fig:fig3}).
 
-Some of this is probably to be expected.
-For example, the expectation that two-way engagement shapes the direction of one’s research by involving more stakeholders in society is based upon experience from areas of research (such as biomedical science or robotics) that have a more immediate impact on human life.
+Some of this is probably unsurprising.
+For example, the expectation that two-way engagement shapes the direction of one’s research by involving more stakeholders in society is based upon experience from areas of research (such as biomedical science or robotics) that have a more obvious impact on human life.
 It remains to be explored whether this expectation is a valid one when it comes to fundamental research such as particle physics.
