@@ -1,6 +1,7 @@
 # Support for Participating in Outreach and the Benefits of doing so: proceedings for ICHEP 2016
 
 [![Achintya's PhD repos](https://img.shields.io/badge/collection-Achintya's%20PhD%20repos-yellowgreen.svg)](https://github.com/RaoOfPhysics/phd)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.556941.svg)](https://doi.org/10.5281/zenodo.556941)
 
 Repo for the paper based on [my talk at ICHEP 2016](https://indico.cern.ch/event/432527/contributions/1072118/), showing early results from my PhD research.
 
