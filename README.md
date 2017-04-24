@@ -11,7 +11,7 @@ The repo for the slides can be found at [https://github.com/RaoOfPhysics/201608_
 
 ## Build information
 
-- The document is put together using [Markdown](https://daringfireball.net/projects/markdown/) files sync’d between this repo and an [Authorea project](https://www.authorea.com/users/8205/articles/133182/_show_article).
+- The document is put together using [Markdown](https://daringfireball.net/projects/markdown/) files sync’d between this repo and an [Authorea project](https://www.authorea.com/users/8205/articles/138156/).
     - Each section of this document resides in its own directory: see `layout.md` for the order of the files.
 - The plots included in the document are built with [ggplot2](http://ggplot2.org/) in [R](https://www.r-project.org/), using [RStudio](https://www.rstudio.com/).
 
