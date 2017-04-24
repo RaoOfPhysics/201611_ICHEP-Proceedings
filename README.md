@@ -4,7 +4,7 @@
 
 Repo for the paper based on [my talk at ICHEP 2016](https://indico.cern.ch/event/432527/contributions/1072118/), showing early results from my PhD research.
 
-The paper itself can be found at [https://pos.sissa.it/cgi-bin/reader/contribution.cgi?id=282/343](https://pos.sissa.it/cgi-bin/reader/contribution.cgi?id=282/343) or in this repo with the filename [`201607_PCST-Proceedings.pdf`](https://github.com/RaoOfPhysics/201607_PCST-Proceedings/blob/master/201607_PCST-Proceedings.pdf).
+The paper itself can be found at [https://pos.sissa.it/cgi-bin/reader/contribution.cgi?id=282/343](https://pos.sissa.it/cgi-bin/reader/contribution.cgi?id=282/343) or in this repo with the filename [`201611_ICHEP-Proceedings.pdf`](https://github.com/RaoOfPhysics/201611_ICHEP-Proceedings/blob/master/201611_ICHEP-Proceedings.pdf).
 To annotate the PDF using [Hypothesis](https://hypothes.is), please visit [https://via.hypothes.is/https://pos.sissa.it/archive/conferences/282/343/ICHEP2016_343.pdf](https://via.hypothes.is/https://pos.sissa.it/archive/conferences/282/343/ICHEP2016_343.pdf).
 
 The repo for the slides can be found at [https://github.com/RaoOfPhysics/201608_ICHEP/](https://github.com/RaoOfPhysics/201608_ICHEP/) and the video of the talk is available at [https://www.youtube.com/watch?v=ZavZon1LUbU](https://www.youtube.com/watch?v=ZavZon1LUbU).
